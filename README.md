@@ -1,4 +1,4 @@
-# To-Do List App - Product Requirement Document (PRD)
+# HolistiqCare App - Product Requirement Document (PRD)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
