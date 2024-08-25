@@ -223,7 +223,8 @@ Admin onboarding user flow:
 
 
 Employee onboarding user flow
-![Uploading Employee_Onboarding_High_Fidelity_designs.jpg…]()
+![Admin_onboarding_High_Fidelity_designs](https://github.com/user-attachments/assets/65319c43-7065-46d7-ad72-573af2d3036e)
+
 
 
 ### Design Process:
