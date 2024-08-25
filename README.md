@@ -75,7 +75,7 @@ These challenges helped me refine my approach to product management and taught m
 3. Predictive corporate health trends
 
 ### Contributing
-If you'd like to contribute to the development of this To-Do List App, please follow these steps:
+If you'd like to contribute to the development of the HolistiqCare App, please follow these steps:
 
 1. Fork the repository.
 1. Create a new branch (git checkout -b feature-branch).
