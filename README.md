@@ -56,7 +56,7 @@ The PRD includes detailed user stories to map out the user journey:
 1. **As a user**, I want to complete a comprehensive wellness assessment questionnaire on the HolistiqCare platform to evaluate my well-being.
 1. **As a user**, I want assurance that my wellness data on the HolistiqCare platform is secure and private.
 1. **As a user**, I want to see my individual wellness index score on the HolistiqCare platform and receive recommendations for improvement.
-1. **As a user** of HolistiqCare Limited, I want to have access to an admin panel on the platform, So that I can effectively manage my organization's presence and monitor the Corporate Wellness Index.
+1. **As a user** , I want to have access to an admin panel on the platform, So that I can effectively manage my organization's presence and monitor the Corporate Wellness Index.
 
 ### Collaboration & Development
 This project is open to collaboration! If you’re a developer and would like to contribute to building the app, feel free to open an issue or create a pull request.
