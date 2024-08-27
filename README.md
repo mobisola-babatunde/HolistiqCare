@@ -62,7 +62,7 @@ The PRD includes detailed user stories to map out the user journey:
 This project is open to collaboration! If you’re a developer and would like to contribute to building the app, feel free to open an issue or create a pull request.
 Currently, I am looking for a developer who can implement the frontend and backend as outlined in the PRD. Let’s bring this app to life!
 
-### Challenges & Lessons Learned:
+### Lessons Learned:
 - **Importance of User Feedback:** Continuous user feedback is crucial for refining the app and ensuring it meets user needs.
 - **Data Security:** Robust data security measures are essential to gain user trust, especially in a wellness app dealing with sensitive information.
 These challenges helped me refine my approach to product management and taught me the importance of continuous iteration.
