@@ -133,8 +133,6 @@ So that I can effectively manage my organization's presence and monitor the Corp
 
 **As a user**, I want to see my individual wellness index score on the HolistiqCare platform and receive recommendations for improvement.
 
-
-
 ## **Features**
 
 ### **MoSCoW Prioritization of Features:**
@@ -142,7 +140,6 @@ So that I can effectively manage my organization's presence and monitor the Corp
 Using the MoSCoW prioritization framework, we can prioritize the features for the MVP of HolistiqCare mobile app. With this prioritization, we can focus on developing the most critical features for the MVP, ensuring that we deliver the core value to corporate clients and their employees within the limited timeframe. This approach will allow us to launch quickly and start gathering feedback and data to guide the development of additional features in subsequent releases.
 
 ![MoSCoW_Matrix_for_KineXis_App](https://github.com/user-attachments/assets/c84f7cf4-bfc0-4a3d-83c3-df2b94b23110)
-
 
 **Must-Have Features (M):**
 
@@ -168,7 +165,6 @@ Using the MoSCoW prioritization framework, we can prioritize the features for th
 2. Feedback Mechanism
 3. Predictive corporate health trends
 
- 
 ## Research and Insights
 
 ### User Research:
@@ -197,13 +193,11 @@ The decision-making process prioritized features based on their potential impact
 
 **User Flow 1: Corporate Organization Registration and Onboarding on HolistiqCare Platform**
 
-<img width="2471" alt="User_Flow_Diagrams_for_HolistiqCare_App" src="https://github.com/user-attachments/assets/75887323-388e-4548-9319-f3a92bc08ce8">
-
+<img width="3970" alt="User Flow Diagram for HolistiqCare App - Admin Flow" src="https://github.com/user-attachments/assets/0035f0ab-7611-4c7a-be41-a6c56f56fa9c">
 
 **User Flow 2: Employee Onboarding on HolistiqCare Platform**
 
-<img width="1791" alt="User_Flow_Diagrams_for_HolistiqCare_App_(1)" src="https://github.com/user-attachments/assets/1d929fef-8fdb-4918-8b2c-c708055cc5b5">
-
+<img width="3453" alt="User Flow Diagram for HolistiqCare App - Employee Flow" src="https://github.com/user-attachments/assets/3c8e2032-7001-4cc9-bf4c-a60b9171f40a">
 
 ### **Wireframes:**
 
@@ -221,10 +215,8 @@ The decision-making process prioritized features based on their potential impact
 Admin onboarding user flow:
 ![Admin_onboarding_High_Fidelity_designs](https://github.com/user-attachments/assets/ca208b28-ba2f-4b06-a18a-a5b9d4fb9517)
 
-
 Employee onboarding user flow
 ![Admin_onboarding_High_Fidelity_designs](https://github.com/user-attachments/assets/65319c43-7065-46d7-ad72-573af2d3036e)
-
 
 
 ### Design Process:
